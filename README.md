@@ -4,11 +4,11 @@ Implementación de una API REST usando la especificación [JSON:API v1.1](https:
 
 ## Informe
 
-https://docs.google.com/document/d/1jfk39FzaX4qtlqZfzJDLnnvNngLfEQyN/edit?usp=sharing&ouid=106429366101685113208&rtpof=true&sd=true
+[https://docs.google.com/document/d/1jfk39FzaX4qtlqZfzJDLnnvNngLfEQyN/edit?usp=sharing&ouid=106429366101685113208&rtpof=true&sd=true](https://docs.google.com/document/d/1jfk39FzaX4qtlqZfzJDLnnvNngLfEQyN/edit?usp=sharing&ouid=106429366101685113208&rtpof=true&sd=true)
 
 ## Presentación
 
-https://gamma.app/docs/JSONAPI-8rymvmmja41aly2
+[https://gamma.app/docs/JSONAPI-8rymvmmja41aly2](https://gamma.app/docs/JSONAPI-35otqnih1ut3zrh)
 
 ## Integrantes
 
