@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1jfk39FzaX4qtlqZfzJDLnnvNngLfEQyN/edit?usp=sh
 
 ## Presentación
 
-<!-- Link a la presentación -->
+https://gamma.app/docs/JSONAPI-8rymvmmja41aly2
 
 ## Integrantes
 
