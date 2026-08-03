@@ -8,7 +8,7 @@ Implementación de una API REST usando la especificación [JSON:API v1.1](https:
 
 ## Presentación
 
-[https://gamma.app/docs/JSONAPI-8rymvmmja41aly2](https://gamma.app/docs/JSONAPI-35otqnih1ut3zrh)
+[https://docs.google.com/presentation/d/10K6AzxEq0znFf1y2bEKAwk09Cpq2bS9u/edit?usp=sharing&ouid=106429366101685113208&rtpof=true&sd=true](https://docs.google.com/presentation/d/10K6AzxEq0znFf1y2bEKAwk09Cpq2bS9u/edit?usp=sharing&ouid=106429366101685113208&rtpof=true&sd=true)
 
 ## Integrantes
 
